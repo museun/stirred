@@ -1,0 +1,11 @@
+/target
+.dev.env
+.env
+*.json
+/db
+*.txt
+*.sdb
+*.db
+*.tmp
+.spotify_token_cache.json
+user_defined.json
