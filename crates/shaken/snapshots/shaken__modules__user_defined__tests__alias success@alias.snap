@@ -1,0 +1,7 @@
+---
+source: crates/shaken/src/modules/user_defined/tests.rs
+expression: mock.get_response()
+---
+kind:
+  - Reply: "aliased '!foo' to '!bar'"
+

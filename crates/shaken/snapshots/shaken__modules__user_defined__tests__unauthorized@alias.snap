@@ -1,0 +1,7 @@
+---
+source: crates/shaken/src/modules/user_defined/tests.rs
+expression: mock.get_response()
+---
+kind:
+  - Problem: that requires you to be a moderator or the broadcaster
+

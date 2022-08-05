@@ -1,0 +1,8 @@
+---
+source: crates/shaken/src/modules/crates/mod.rs
+expression: mock.get_response()
+---
+kind:
+  - Say: "twitchchat = \"0.14.8\" | interface to the irc-side of twitch's chat system"
+  - Say: "docs: https://docs.rs/twitchchat/latest/twitchchat/ | repo: https://github.com/museun/twitchchat"
+

@@ -1,0 +1,7 @@
+---
+source: crates/shaken/src/modules/builtin.rs
+expression: mock.get_response()
+---
+kind:
+  - Say: "stream has been running for: 3 hours, 25 minutes and 45 seconds"
+

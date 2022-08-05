@@ -1,0 +1,7 @@
+---
+source: crates/shaken/src/modules/builtin.rs
+expression: mock.get_response()
+---
+kind:
+  - Say: "'Monokai GrayJack' from https://marketplace.visualstudio.com/items?itemName=grayjack.monokai-grayjack"
+

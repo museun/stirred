@@ -1,0 +1,8 @@
+---
+source: crates/shaken/src/modules/builtin.rs
+assertion_line: 185
+expression: mock.get_response()
+---
+kind:
+  - Say: "!hello !time !theme !bot-uptime !uptime !help"
+

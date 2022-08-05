@@ -1,0 +1,8 @@
+---
+source: crates/shaken/src/modules/user_defined/tests.rs
+assertion_line: 28
+expression: mock.get_response()
+---
+kind:
+  - Problem: "'!foo' already exists"
+

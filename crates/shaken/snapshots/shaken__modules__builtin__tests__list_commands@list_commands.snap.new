@@ -1,0 +1,7 @@
+---
+source: crates/shaken/src/modules/builtin.rs
+assertion_line: 176
+expression: mock.get_response()
+---
+kind: []
+
